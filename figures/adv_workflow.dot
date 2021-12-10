@@ -1,0 +1,6 @@
+digraph AdvancedChallengeWF{
+  label="AdvancedChallengeWF";
+  AdvancedChallengeWF_Smooth[label="Smooth (fsl)"];
+  AdvancedChallengeWF_SkullStrip[label="SkullStrip (fsl)"];
+  AdvancedChallengeWF_Smooth -> AdvancedChallengeWF_SkullStrip;
+}

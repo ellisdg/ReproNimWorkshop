@@ -1,0 +1,34 @@
+{
+    "groups": [
+        {
+            "name": "Group_00001",
+            "procs": [
+                0,
+                1
+            ],
+            "total": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        }
+    ],
+    "maxN": 2,
+    "nodes": [
+        {
+            "group": 1,
+            "name": "0_Smooth",
+            "report": "/home/jupyter-david.ellis/ReproNimWorkshop/AdvancedChallengeWF/Smooth/_report/report.rst",
+            "result": "/home/jupyter-david.ellis/ReproNimWorkshop/AdvancedChallengeWF/Smooth/result_Smooth.pklz"
+        },
+        {
+            "group": 1,
+            "name": "1_SkullStrip",
+            "report": "/home/jupyter-david.ellis/ReproNimWorkshop/AdvancedChallengeWF/SkullStrip/_report/report.rst",
+            "result": "/home/jupyter-david.ellis/ReproNimWorkshop/AdvancedChallengeWF/SkullStrip/result_SkullStrip.pklz"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    [
+        "in_file",
+        [
+            "/home/jupyter-david.ellis/ReproNimWorkshop/data/T1w_acpc_dc_restore_1mm.nii.gz",
+            "9ecd4dbe549befd343fd01347b46a97b"
+        ]
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ],
+    [
+        "sigma",
+        "4.0000000000"
+    ],
+    [
+        "needed_outputs",
+        [
+            "smoothed_file"
+        ]
+    ]
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "group": 1,
+        "imports": [],
+        "name": "0_Smooth",
+        "size": 1
+    },
+    {
+        "group": 1,
+        "imports": [
+            "0_Smooth"
+        ],
+        "name": "1_SkullStrip",
+        "size": 1
+    }
+]

@@ -1,0 +1,6 @@
+digraph MyWorkflow{
+  label="MyWorkflow";
+  MyWorkflow_SkullStrip[label="SkullStrip (fsl)"];
+  MyWorkflow_Smooth[label="Smooth (fsl)"];
+  MyWorkflow_SkullStrip -> MyWorkflow_Smooth;
+}

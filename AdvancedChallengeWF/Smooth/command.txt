@@ -1,0 +1,1 @@
+fslmaths /home/jupyter-david.ellis/ReproNimWorkshop/data/T1w_acpc_dc_restore_1mm.nii.gz -kernel gauss 4.000 -fmean T1w_acpc_dc_restore_1mm_smooth.nii.gz

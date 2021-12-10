@@ -1,0 +1,1 @@
+bet T1w_acpc_dc_restore_1mm_smooth.nii.gz stripped.nii.gz

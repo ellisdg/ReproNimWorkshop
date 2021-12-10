@@ -1,0 +1,17 @@
+[
+    [
+        "in_file",
+        [
+            "/home/jupyter-david.ellis/ReproNimWorkshop/AdvancedChallengeWF/Smooth/T1w_acpc_dc_restore_1mm_smooth.nii.gz",
+            "59f38459a20f269a42125236ab2c3f4d"
+        ]
+    ],
+    [
+        "out_file",
+        "stripped.nii.gz"
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ]
+]

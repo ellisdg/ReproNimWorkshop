@@ -1,0 +1,17 @@
+[
+    [
+        "in_file",
+        [
+            "/home/jupyter-david.ellis/ReproNimWorkshop/MyWorkflow/SkullStrip/T1w_acpc_dc_restore_1mm_brain.nii.gz",
+            "a7dde544c79b2633b7391afb2d94f16e"
+        ]
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ],
+    [
+        "sigma",
+        "4.0000000000"
+    ]
+]
